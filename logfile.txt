@@ -1,0 +1,26 @@
+2024-05-20 10:21:43: ETL started
+2024-05-20 10:21:43: Extracting of data
+2024-05-20 10:21:45: Extracting of data is Completed
+2024-05-20 10:21:45: Transforming of data
+2024-05-20 10:21:45: Transforming of data is Completed
+2024-05-20 10:21:45: Loading of data
+2024-05-20 10:22:10: ETL started
+2024-05-20 10:22:10: Extracting of data
+2024-05-20 10:22:12: Extracting of data is Completed
+2024-05-20 10:22:12: Transforming of data
+2024-05-20 10:22:12: Transforming of data is Completed
+2024-05-20 10:22:12: Loading of data
+2024-05-20 10:22:29: ETL started
+2024-05-20 10:22:29: Extracting of data
+2024-05-20 10:22:31: Extracting of data is Completed
+2024-05-20 10:22:31: Transforming of data
+2024-05-20 10:22:31: Transforming of data is Completed
+2024-05-20 10:22:31: Loading of data
+2024-05-20 10:22:31: Loading of data is Completed
+2024-05-20 10:23:47: ETL started
+2024-05-20 10:23:47: Extracting of data
+2024-05-20 10:23:49: Extracting of data is Completed
+2024-05-20 10:23:49: Transforming of data
+2024-05-20 10:23:49: Transforming of data is Completed
+2024-05-20 10:23:49: Loading of data
+2024-05-20 10:23:49: Loading of data is Completed
